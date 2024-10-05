@@ -129,6 +129,10 @@ PC用のスタイル
     text-decoration: underline;
   }
 
+  #nav-sp a:active {
+    color: #ffffff;
+  }
+
   #nav-sp .menu {
     text-decoration: none;
     display: block;
